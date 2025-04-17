@@ -108,4 +108,6 @@ streamlit run app_ml.py    # Run the web app
 
 🌱 **Happy Farming with AI!** 🌾
 
+---
+
 <img width="1409" alt="Screenshot 2025-04-17 at 8 01 57 PM" src="https://github.com/user-attachments/assets/b2f45165-deb9-40e1-b3ce-d79f7091bfa2" />
