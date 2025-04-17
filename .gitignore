@@ -1,0 +1,46 @@
+# Virtual Environment
+env/
+venv/
+ENV/
+
+# Python
+*.py[cod]
+*$py.class
+__pycache__/
+*.so
+.Python
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+
+# Local development settings
+.env
+.env.local
+
+# Large data files (consider excluding if needed)
+# *.csv
+# *.pkl
+
+# Keep your ML models in git (commented out)
+# !final_rf_crop_model.pkl
+# !label_encoder.pkl
+# !scaler.pkl
